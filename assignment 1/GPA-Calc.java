@@ -1,6 +1,6 @@
 /**
  * This Program written by Khaled Amr for a Computer Graphics course in the Higher Technological Institute.
- * You can get see upgraded versions of it in my github acc. (Khaled-Amr-1)
+ * You can get upgraded versions of it in my github acc. (Khaled-Amr-1)
  */
 import java.util.Scanner;
 
